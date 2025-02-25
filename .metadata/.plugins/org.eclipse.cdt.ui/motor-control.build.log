@@ -1,0 +1,18 @@
+22:02:19 **** Incremental Build of configuration Debug for project motor-control ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/stm32f1xx_hal_msp.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/stm32f1xx_hal_msp.d" -MT"Core/Src/stm32f1xx_hal_msp.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/stm32f1xx_hal_msp.o"
+arm-none-eabi-gcc "../Core/Src/stm32f1xx_it.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/stm32f1xx_it.d" -MT"Core/Src/stm32f1xx_it.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/stm32f1xx_it.o"
+arm-none-eabi-gcc -o "motor-control.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motor-control\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="motor-control.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: motor-control.elf
+ 
+arm-none-eabi-size  motor-control.elf 
+arm-none-eabi-objdump -h -S motor-control.elf  > "motor-control.list"
+   text	   data	    bss	    dec	    hex	filename
+   7600	     12	   1620	   9232	   2410	motor-control.elf
+Finished building: default.size.stdout
+ 
+Finished building: motor-control.list
+ 
+
+22:02:21 Build Finished. 0 errors, 0 warnings. (took 1s.326ms)
+

@@ -1,0 +1,13 @@
+/*
+ * gpio.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#include "gpio.h"
+
+void GPIO_Init(void) {
+
+	__HAL_RCC_GPIOF_CLK_ENABLE();
+}

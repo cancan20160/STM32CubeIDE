@@ -1,0 +1,949 @@
+2024-11-10 00:03:09,783 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-11-10 00:03:11,110 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 2055mS.
+2024-11-10 00:03:11,111 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:03:11,113 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:04:54,209 [ERROR] ConfigurationRetriever:142 - IOException on connection: Remote host terminated the handshake
+2024-11-10 00:05:07,839 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 00:05:14,502 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:05:35,016 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:06:23,183 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:06:31,787 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 588116504 Bytes (922746880)
+2024-11-10 00:06:33,488 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 621620952 Bytes (922746880)
+2024-11-10 00:06:33,713 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:06:33,715 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:06:33,715 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:06:33,715 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:06:33,716 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:06:33,716 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:06:33,717 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:06:33,822 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:06:33,899 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:06:33,917 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:06:33,992 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:06:34,058 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:06:34,138 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:06:34,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:06:34,216 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:06:34,231 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:06:34,342 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:06:34,350 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:06:34,415 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:06:34,428 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:06:34,526 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:06:34,577 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:06:34,578 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:06:34,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:06:34,681 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:06:34,688 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:06:34,835 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:06:35,171 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 125mS.
+2024-11-10 00:06:35,174 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:06:35,271 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:06:36,257 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1082mS.
+2024-11-10 00:06:36,257 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:06:36,260 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:07:37,499 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:07:41,576 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:08:15,438 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 291469480 Bytes (924844032)
+2024-11-10 00:08:17,787 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 337545728 Bytes (924844032)
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:08:17,946 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:08:17,947 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:08:18,048 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:08:18,148 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:08:18,169 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:08:18,271 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:08:18,394 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:08:18,469 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:08:18,475 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:08:18,543 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:08:18,559 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:08:18,654 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:08:18,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:08:18,719 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:08:18,729 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:08:18,797 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:08:18,811 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:08:18,811 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:08:18,819 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:08:18,884 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:08:18,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:08:18,985 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:08:19,289 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 130mS.
+2024-11-10 00:08:19,292 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:08:19,367 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:08:20,393 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1101mS.
+2024-11-10 00:08:20,394 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:08:20,396 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:19:04,406 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:19:45,571 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:19:49,037 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:20:24,226 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:20:26,073 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:20:29,375 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:20:35,384 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:20:50,402 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 295177536 Bytes (930086912)
+2024-11-10 00:20:53,314 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 332944792 Bytes (930086912)
+2024-11-10 00:20:53,479 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:20:53,479 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:20:53,479 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:20:53,479 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:20:53,480 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:20:53,554 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:20:53,618 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:20:53,630 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:20:53,697 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:20:53,713 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:20:53,809 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:20:53,815 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:20:53,889 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:20:53,899 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:20:53,987 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:20:53,991 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:20:54,048 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:20:54,058 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:20:54,122 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:20:54,145 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:20:54,208 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:20:54,213 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:20:54,299 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:20:54,596 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 132mS.
+2024-11-10 00:20:54,599 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:20:54,675 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:20:55,645 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1046mS.
+2024-11-10 00:20:55,646 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:20:55,650 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 00:21:24,843 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:21:33,892 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:21:47,986 [INFO] Gpio:277 - dependency for GPIO [RCC]
+2024-11-10 00:23:56,992 [INFO] Gpio:277 - dependency for GPIO [RCC, TIM1]
+2024-11-10 00:24:11,233 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 675331192 Bytes (951058432)
+2024-11-10 00:24:12,920 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 735757288 Bytes (951058432)
+2024-11-10 00:24:13,086 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:24:13,086 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:24:13,086 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:24:13,086 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:24:13,086 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:24:13,087 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:24:13,163 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:24:13,230 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:24:13,244 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:24:13,305 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:24:13,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:24:13,448 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:24:13,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:24:13,530 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:24:13,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:24:13,637 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:24:13,642 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:24:13,701 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:24:13,711 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:24:13,781 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:24:13,795 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:24:13,795 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:24:13,802 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:24:13,865 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:24:13,872 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:24:13,960 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:24:14,275 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 142mS.
+2024-11-10 00:24:14,279 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:24:14,355 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:24:15,663 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1384mS.
+2024-11-10 00:24:15,664 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:24:15,666 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:26:08,262 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 00:26:14,028 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 00:26:18,885 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 253803024 Bytes (843055104)
+2024-11-10 00:26:20,120 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 285254648 Bytes (843055104)
+2024-11-10 00:26:20,300 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:26:20,300 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:26:20,300 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:26:20,300 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:26:20,300 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:26:20,301 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:26:20,372 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:26:20,431 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:26:20,442 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:26:20,503 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:26:20,537 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:26:20,604 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:26:20,611 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:26:20,672 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:26:20,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:26:20,769 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:26:20,774 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:26:20,832 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:26:20,841 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:26:20,905 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:26:20,920 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:26:20,920 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:26:20,929 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:26:20,991 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:26:20,997 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:26:21,086 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:26:21,386 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 137mS.
+2024-11-10 00:26:21,389 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:26:21,470 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:26:22,640 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1250mS.
+2024-11-10 00:26:22,640 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:26:22,645 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:28:33,992 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 487790064 Bytes (843055104)
+2024-11-10 00:28:34,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:28:34,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:28:34,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:28:34,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:28:34,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:28:34,128 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:28:34,200 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:28:34,260 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:28:34,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:28:34,334 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:28:34,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:28:34,437 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:28:34,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:28:34,502 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:28:34,514 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:28:34,596 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:28:34,600 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:28:34,654 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:28:34,666 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:28:34,731 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:28:34,746 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:28:34,746 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:28:34,754 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:28:34,820 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:28:34,826 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:28:34,921 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:28:35,237 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 134mS.
+2024-11-10 00:28:35,240 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:28:35,347 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:28:36,059 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 819mS.
+2024-11-10 00:28:36,061 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 00:28:36,064 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:31:11,915 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 00:31:14,179 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 338456120 Bytes (843055104)
+2024-11-10 00:31:15,383 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 369881232 Bytes (843055104)
+2024-11-10 00:31:15,541 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:31:15,541 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:31:15,541 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:31:15,542 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:31:15,542 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:31:15,542 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:31:15,608 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:31:15,666 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:31:15,679 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:31:15,736 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:31:15,782 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:31:15,852 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:31:15,858 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:31:15,915 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:31:15,927 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:31:16,009 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:31:16,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:31:16,066 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:31:16,077 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:31:16,139 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:31:16,151 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:31:16,152 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:31:16,160 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:31:16,226 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:31:16,232 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:31:16,328 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:31:16,629 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 128mS.
+2024-11-10 00:31:16,632 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:31:16,703 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:31:17,661 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1029mS.
+2024-11-10 00:31:17,662 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 00:31:17,664 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:34:05,253 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 00:34:13,097 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 360918240 Bytes (891289600)
+2024-11-10 00:34:14,712 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 394768696 Bytes (891289600)
+2024-11-10 00:34:15,008 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:34:15,008 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:34:15,008 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:34:15,008 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:34:15,008 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:34:15,009 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:34:15,079 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:34:15,141 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:34:15,153 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:34:15,209 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:34:15,244 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:34:15,307 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:34:15,312 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:34:15,376 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:34:15,388 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:34:15,474 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:34:15,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:34:15,536 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:34:15,546 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:34:15,611 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:34:15,625 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:34:15,626 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:34:15,634 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:34:15,702 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:34:15,708 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:34:15,805 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:34:16,119 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 142mS.
+2024-11-10 00:34:16,122 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:34:16,202 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:34:17,229 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1107mS.
+2024-11-10 00:34:17,230 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:34:17,236 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:36:19,728 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 288887504 Bytes (891289600)
+2024-11-10 00:36:20,790 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 321912832 Bytes (891289600)
+2024-11-10 00:36:20,965 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 00:36:20,965 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 00:36:20,965 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 00:36:20,965 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 00:36:20,965 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 00:36:20,966 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 00:36:21,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 00:36:21,103 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 00:36:21,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 00:36:21,172 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 00:36:21,204 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 00:36:21,274 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 00:36:21,280 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 00:36:21,360 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 00:36:21,373 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 00:36:21,480 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 00:36:21,496 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 00:36:21,587 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 00:36:21,596 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 00:36:21,678 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 00:36:21,691 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 00:36:21,691 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 00:36:21,698 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 00:36:21,762 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 00:36:21,768 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 00:36:21,858 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 00:36:22,197 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 134mS.
+2024-11-10 00:36:22,201 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 00:36:22,277 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 00:36:23,038 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 837mS.
+2024-11-10 00:36:23,038 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:36:23,043 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 00:40:59,047 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-11-10 01:13:14,619 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,644 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,650 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,704 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:13:14,755 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:13:14,809 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:13:14,847 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,847 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,847 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,848 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,853 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,864 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,864 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,864 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:14,869 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:13:41,213 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:13:57,261 [INFO] Gpio:277 - dependency for GPIO [ADC1, ADC2, RCC, TIM1]
+2024-11-10 01:13:57,327 [INFO] Gpio:277 - dependency for GPIO [ADC1, ADC2, RCC, TIM1]
+2024-11-10 01:13:57,361 [INFO] Gpio:277 - dependency for GPIO [ADC1, ADC2, RCC, TIM1]
+2024-11-10 01:13:57,395 [INFO] Gpio:277 - dependency for GPIO [ADC1, ADC2, RCC, TIM1]
+2024-11-10 01:13:57,412 [INFO] Gpio:277 - dependency for GPIO [ADC1, ADC2, RCC, TIM1]
+2024-11-10 01:14:00,968 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:07,828 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:07,844 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:07,979 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:14,705 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:24,457 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:24,475 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:24,575 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,254 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,268 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:30,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,168 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,168 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,169 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:33,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:38,097 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 292738616 Bytes (898629632)
+2024-11-10 01:14:39,789 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 346243872 Bytes (898629632)
+2024-11-10 01:14:39,891 [INFO] ProjectBuilder:2320 - IP not ready for code generation: Clock
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:49,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:52,846 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 475437792 Bytes (898629632)
+2024-11-10 01:14:54,488 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 506959552 Bytes (898629632)
+2024-11-10 01:14:54,590 [INFO] ProjectBuilder:2320 - IP not ready for code generation: Clock
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:14:59,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:15:02,387 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:15:02,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:16:58,171 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: class sun.awt.windows.WEmbeddedFrame cannot be cast to class javax.swing.JFrame (sun.awt.windows.WEmbeddedFrame and javax.swing.JFrame are in module java.desktop of loader 'bootstrap')
+2024-11-10 01:16:58,173 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.clock.ClockConfigurationView.activatePlugin(ClockConfigurationView.java:425)
+2024-11-10 01:16:58,175 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.maingui.MainPanel$1.stateChanged(MainPanel.java:374)
+2024-11-10 01:16:58,176 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.fireStateChanged(JTabbedPane.java:444)
+2024-11-10 01:16:58,178 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane$ModelListener.stateChanged(JTabbedPane.java:295)
+2024-11-10 01:16:58,179 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.fireStateChanged(DefaultSingleSelectionModel.java:148)
+2024-11-10 01:16:58,181 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.setSelectedIndex(DefaultSingleSelectionModel.java:79)
+2024-11-10 01:16:58,182 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndexImpl(JTabbedPane.java:648)
+2024-11-10 01:16:58,184 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndex(JTabbedPane.java:623)
+2024-11-10 01:16:58,185 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicTabbedPaneUI$Handler.mousePressed(BasicTabbedPaneUI.java:4101)
+2024-11-10 01:16:58,186 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6623)
+2024-11-10 01:16:58,188 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3389)
+2024-11-10 01:16:58,190 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6391)
+2024-11-10 01:16:58,192 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+2024-11-10 01:16:58,193 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+2024-11-10 01:16:58,194 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+2024-11-10 01:16:58,195 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+2024-11-10 01:16:58,197 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+2024-11-10 01:16:58,198 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4572)
+2024-11-10 01:16:58,199 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+2024-11-10 01:16:58,200 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+2024-11-10 01:16:58,201 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+2024-11-10 01:16:58,202 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+2024-11-10 01:16:58,204 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+2024-11-10 01:16:58,206 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+2024-11-10 01:16:58,207 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-11-10 01:16:58,209 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-11-10 01:16:58,210 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+2024-11-10 01:16:58,211 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+2024-11-10 01:16:58,212 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2024-11-10 01:16:58,214 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-11-10 01:16:58,215 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-11-10 01:16:58,216 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+2024-11-10 01:16:58,218 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2024-11-10 01:16:58,219 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2024-11-10 01:16:58,222 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2024-11-10 01:16:58,223 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2024-11-10 01:16:58,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2024-11-10 01:16:58,225 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2024-11-10 01:17:08,642 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,643 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,649 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,667 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,667 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,667 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,667 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,668 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:08,673 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,290 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,290 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,294 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,306 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:21,309 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:17:23,749 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 420291856 Bytes (1073741824)
+2024-11-10 01:17:25,529 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 452335744 Bytes (1073741824)
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:17:25,709 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:17:25,710 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:17:25,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:17:25,939 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:17:25,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:17:26,066 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:17:26,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:17:26,310 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:17:26,317 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:17:26,380 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:17:26,393 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:17:26,507 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:17:26,513 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:17:26,569 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:17:26,577 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:17:26,641 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:17:26,653 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:17:26,654 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:17:26,661 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:17:26,736 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:17:26,742 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:17:26,837 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:17:27,189 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 152mS.
+2024-11-10 01:17:27,192 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:17:27,284 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:17:28,380 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1188mS.
+2024-11-10 01:17:28,381 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:17:28,386 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:30:55,462 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:30:55,498 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,498 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,498 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,498 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,499 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,502 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,514 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,518 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,603 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:55,621 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:30:59,502 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 555594488 Bytes (933232640)
+2024-11-10 01:31:00,894 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 589428096 Bytes (933232640)
+2024-11-10 01:31:01,070 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:31:01,070 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:31:01,071 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:31:01,071 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:31:01,071 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:31:01,071 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:31:01,071 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:31:01,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:31:01,236 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:31:01,249 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:31:01,311 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:31:01,380 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:31:01,521 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:31:01,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:31:01,584 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:31:01,595 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:31:01,692 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:31:01,697 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:31:01,752 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:31:01,763 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:31:01,830 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:31:01,842 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:31:01,843 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:31:01,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:31:01,940 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:31:01,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:31:02,097 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:31:02,428 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 147mS.
+2024-11-10 01:31:02,432 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:31:02,515 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:31:03,286 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 854mS.
+2024-11-10 01:31:03,287 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:31:03,289 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:31:36,567 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, TIM1]
+2024-11-10 01:31:54,839 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 634150504 Bytes (926941184)
+2024-11-10 01:31:55,028 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:31:55,029 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:31:55,029 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:31:55,029 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:31:55,029 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:31:55,029 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:31:55,029 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:31:55,112 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:31:55,180 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:31:55,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:31:55,259 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:31:55,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:31:55,395 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:31:55,401 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:31:55,469 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:31:55,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:31:55,566 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:31:55,570 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:31:55,625 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:31:55,634 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:31:55,698 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:31:55,712 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:31:55,713 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:31:55,720 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:31:55,783 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:31:55,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:31:55,881 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:31:56,175 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 137mS.
+2024-11-10 01:31:56,178 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:31:56,250 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:31:57,010 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 833mS.
+2024-11-10 01:31:57,011 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:31:57,014 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:33:13,201 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,201 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,201 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,201 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,201 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,202 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,202 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,202 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,202 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,202 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,205 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:13,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,208 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,209 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:18,220 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:31,406 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:31,873 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:32,384 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:32,762 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:43,359 [INFO] SpinnerEditorADC:65 - is string kkkk
+2024-11-10 01:33:48,854 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:33:48,884 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,886 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:33:48,890 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:34:51,820 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 527125264 Bytes (926941184)
+2024-11-10 01:41:30,610 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:41:37,109 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:42:13,072 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 693312688 Bytes (1073741824)
+2024-11-10 01:42:14,691 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 770630496 Bytes (1073741824)
+2024-11-10 01:42:19,864 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 824107896 Bytes (1073741824)
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:42:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:42:20,068 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:42:20,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:42:20,234 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:42:20,248 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:42:20,316 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:42:20,387 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:42:20,540 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:42:20,546 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:42:20,607 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:42:20,618 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:42:20,727 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:42:20,731 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:42:20,787 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:42:20,796 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:42:20,861 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:42:20,873 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:42:20,874 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:42:20,882 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:42:20,957 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:42:20,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:42:21,054 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:42:21,350 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 136mS.
+2024-11-10 01:42:21,353 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:42:21,426 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:42:22,140 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 787mS.
+2024-11-10 01:42:22,141 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:42:22,146 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:44:11,465 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:44:19,258 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:44:33,665 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 376613768 Bytes (1073741824)
+2024-11-10 01:44:34,659 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 395469224 Bytes (1073741824)
+2024-11-10 01:44:35,465 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 422316800 Bytes (1073741824)
+2024-11-10 01:44:35,649 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:44:35,649 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:44:35,649 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:44:35,649 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:44:35,649 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:44:35,650 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:44:35,650 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:44:35,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:44:35,782 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:44:35,794 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:44:35,855 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:44:35,925 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:44:35,995 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:44:36,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:44:36,057 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:44:36,068 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:44:36,151 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:44:36,155 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:44:36,212 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:44:36,221 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:44:36,282 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:44:36,295 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:44:36,295 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:44:36,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:44:36,365 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:44:36,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:44:36,462 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:44:36,763 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 135mS.
+2024-11-10 01:44:36,766 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:44:36,837 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:44:37,663 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 896mS.
+2024-11-10 01:44:37,663 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:44:37,666 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:45:58,563 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:46:12,597 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 419389936 Bytes (1027604480)
+2024-11-10 01:46:14,010 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 442528816 Bytes (1027604480)
+2024-11-10 01:46:15,011 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 470643600 Bytes (1027604480)
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:46:15,183 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:46:15,184 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:46:15,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:46:15,307 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:46:15,319 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:46:15,375 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:46:15,421 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:46:15,485 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:46:15,490 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:46:15,548 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:46:15,558 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:46:15,642 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:46:15,646 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:46:15,700 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:46:15,709 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:46:15,772 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:46:15,785 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:46:15,786 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:46:15,793 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:46:15,854 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:46:15,860 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:46:15,957 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:46:16,260 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 138mS.
+2024-11-10 01:46:16,263 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:46:16,335 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:46:16,987 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 724mS.
+2024-11-10 01:46:16,988 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-11-10 01:46:16,990 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:47:26,772 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 406822696 Bytes (1073741824)
+2024-11-10 01:47:28,254 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 425489104 Bytes (1073741824)
+2024-11-10 01:47:31,230 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 452857328 Bytes (1073741824)
+2024-11-10 01:47:31,426 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:47:31,427 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:47:31,427 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:47:31,427 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:47:31,427 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:47:31,427 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:47:31,427 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:47:31,501 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:47:31,593 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:47:31,609 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:47:31,678 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:47:31,746 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:47:31,894 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:47:31,899 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:47:31,968 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:47:31,980 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:47:32,086 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:47:32,092 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:47:32,151 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:47:32,161 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:47:32,226 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:47:32,241 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:47:32,241 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:47:32,250 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:47:32,327 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:47:32,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:47:32,426 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:47:32,777 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 186mS.
+2024-11-10 01:47:32,780 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:47:32,865 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:47:33,703 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 922mS.
+2024-11-10 01:47:33,704 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:47:33,706 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:51:47,352 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,353 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,353 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,358 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,368 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,369 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,370 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:47,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-11-10 01:51:49,334 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x158,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:51:50,362 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-11-10 01:51:53,809 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 493885384 Bytes (972029952)
+2024-11-10 01:51:55,766 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 511852208 Bytes (972029952)
+2024-11-10 01:51:58,386 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 538258120 Bytes (972029952)
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-11-10 01:51:58,545 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-11-10 01:51:58,546 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.1.202409122256\\db\
+2024-11-10 01:51:58,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp_save
+2024-11-10 01:51:58,671 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\license.tmp
+2024-11-10 01:51:58,683 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp_save
+2024-11-10 01:51:58,739 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\gpio.tmp
+2024-11-10 01:51:58,783 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c_save
+2024-11-10 01:51:58,861 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_it.c
+2024-11-10 01:51:58,866 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h_save
+2024-11-10 01:51:58,926 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_it.h
+2024-11-10 01:51:58,938 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c_save
+2024-11-10 01:51:59,026 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\stm32f1xx_hal_msp.c
+2024-11-10 01:51:59,030 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp_save
+2024-11-10 01:51:59,083 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\MXTmpFiles\system.tmp
+2024-11-10 01:51:59,093 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-11-10 01:51:59,155 [INFO] CodeEngine:335 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\stm32f1xx_hal_conf.h
+2024-11-10 01:51:59,170 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-11-10 01:51:59,171 [WARN] CodeGenerator:4002 - IP not found : null
+2024-11-10 01:51:59,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h_save
+2024-11-10 01:51:59,247 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Inc\main.h
+2024-11-10 01:51:59,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c_save
+2024-11-10 01:51:59,347 [INFO] CodeEngine:279 - Generated code: C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\motorControl\Core\Src\main.c
+2024-11-10 01:51:59,648 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 138mS.
+2024-11-10 01:51:59,651 [INFO] ProjectBuilder:4828 - Project Generator version: 4.5.0-B34
+2024-11-10 01:51:59,731 [INFO] ConfigFileManager:1531 - The Die is : DIE412
+2024-11-10 01:52:00,453 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 803mS.
+2024-11-10 01:52:00,453 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-11-10 01:52:00,457 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.

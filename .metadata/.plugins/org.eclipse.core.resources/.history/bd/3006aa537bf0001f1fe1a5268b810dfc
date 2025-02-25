@@ -1,0 +1,32 @@
+/*
+ * adc.c
+ *
+ *  Created on: Feb 21, 2025
+ *      Author: leagu
+ */
+
+#include "adc.h"
+
+ADC_HandleTypeDef hadc1;
+
+void ADC1_Init(void) {
+
+	ADC_ChannelConfTypeDef sConfig = { 0 };
+
+	hadc1.Instance = ADC1;
+
+	hadc1.Init.ContinuousConvMode = ENABLE;
+	hadc1.Init.DataAlign = ADC_DATAALIGN_RIGHT;
+	hadc1.Init.NbrOfConversion = 1;
+	hadc1.Init.SamplingMode = ADC_MODE_INDEPENDENT;
+	hadc1.Init.ScanConvMode = DISABLE;
+
+	HAL_ADC_Init(&hadc1);
+
+	sConfig.Channel = ADC_CHANNEL_0;
+	sConfig.Rank = ADC_REGULAR_RANK_1;
+	sConfig.SamplingTime = ADC_SAMPLETIME_2CYCLES_5;
+
+	HAL_ADC_ConfigChannel(&hadc1, &sConfig);
+
+}

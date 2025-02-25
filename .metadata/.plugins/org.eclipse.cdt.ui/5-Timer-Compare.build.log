@@ -1,0 +1,10 @@
+15:53:16 **** Incremental Build of configuration Debug for project 5-Timer-Compare ****
+make -j4 all 
+arm-none-eabi-size  5-Timer-Compare.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30548	    224	   4848	  35620	   8b24	5-Timer-Compare.elf
+Finished building: default.size.stdout
+ 
+
+15:53:17 Build Finished. 0 errors, 0 warnings. (took 629ms)
+

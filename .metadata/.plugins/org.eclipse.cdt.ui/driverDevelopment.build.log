@@ -1,0 +1,20 @@
+17:17:28 **** Incremental Build of configuration Debug for project driverDevelopment ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C6Tx -c -I../Inc -I"C:/Users/leagu/STM32CubeIDE/workspace_1.16.1/driverDevelopment/myDrivers/Inc" -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+../Src/main.c:71:13: warning: 'GPIO_ButtonInterruptConfig' defined but not used [-Wunused-function]
+   71 | static void GPIO_ButtonInterruptConfig()
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "driverDevelopment.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\driverDevelopment\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="driverDevelopment.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: driverDevelopment.elf
+ 
+arm-none-eabi-size  driverDevelopment.elf 
+arm-none-eabi-objdump -h -S driverDevelopment.elf  > "driverDevelopment.list"
+   text	   data	    bss	    dec	    hex	filename
+    892	      0	   1600	   2492	    9bc	driverDevelopment.elf
+Finished building: default.size.stdout
+ 
+Finished building: driverDevelopment.list
+ 
+
+17:17:29 Build Finished. 0 errors, 1 warnings. (took 796ms)
+

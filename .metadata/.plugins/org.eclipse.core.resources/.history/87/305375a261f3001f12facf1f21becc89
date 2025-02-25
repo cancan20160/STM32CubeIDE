@@ -1,0 +1,16 @@
+/*
+ * dac.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#include "dac.h"
+
+DAC_HandleTypeDef hdac1;
+
+void DAC1_Init(void) {
+
+	__HAL_RCC_DAC1_CLK_ENABLE();
+
+}

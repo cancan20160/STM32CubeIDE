@@ -1,0 +1,15 @@
+/*
+ * dac.h
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#ifndef INC_DAC_H_
+#define INC_DAC_H_
+
+#include "main.h"
+
+void DAC1_Init(void);
+
+#endif /* INC_DAC_H_ */

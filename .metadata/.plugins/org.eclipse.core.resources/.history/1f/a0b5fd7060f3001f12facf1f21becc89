@@ -1,0 +1,19 @@
+/*
+ * adc.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#include "adc.h"
+
+ADC_HandleTypeDef hadc1;
+
+void ADC1_Init(void) {
+
+	__HAL_RCC_ADC12_CLK_ENABLE();
+
+	ADC_ChannelConfTypeDef sConfig;
+
+
+}

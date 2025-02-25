@@ -1,0 +1,16 @@
+23:43:54 **** Incremental Build of configuration Debug for project 10-ADC-DAC ****
+make -j4 all 
+arm-none-eabi-gcc -o "10-ADC-DAC.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\10-ADC-DAC\STM32G431CBUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="10-ADC-DAC.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 10-ADC-DAC.elf
+ 
+arm-none-eabi-size  10-ADC-DAC.elf 
+arm-none-eabi-objdump -h -S 10-ADC-DAC.elf  > "10-ADC-DAC.list"
+   text	   data	    bss	    dec	    hex	filename
+  13668	     12	   1700	  15380	   3c14	10-ADC-DAC.elf
+Finished building: default.size.stdout
+ 
+Finished building: 10-ADC-DAC.list
+ 
+
+23:43:59 Build Finished. 0 errors, 0 warnings. (took 4s.320ms)
+

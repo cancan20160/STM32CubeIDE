@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Init"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="ADC"/>
+			<item value="init"/>
+			<item value="hUsbDeviceFS"/>
+			<item value="extern"/>
+			<item value="flag"/>
+			<item value="ADC_SAMPLETIME_2CYCL"/>
+			<item value="ADC_Config"/>
+			<item value="channel"/>
+		</list>
+		<list key="replacehistory">
+			<item value="HAL_UART_Receive_IT(&amp;huart4, rxData, strlen(FIXED_DATA) + 1);"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="646"/>
+		<item key="DIALOG_Y_ORIGIN" value="354"/>
+	</section>
+</section>

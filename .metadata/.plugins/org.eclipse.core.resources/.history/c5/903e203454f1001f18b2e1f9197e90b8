@@ -1,0 +1,14 @@
+/*
+ * adc.c
+ *
+ *  Created on: Feb 22, 2025
+ *      Author: leagu
+ */
+
+#include "adc.h"
+
+ADC_HandleTypeDef hadc1;
+
+void ADC_Init(void) {
+
+}

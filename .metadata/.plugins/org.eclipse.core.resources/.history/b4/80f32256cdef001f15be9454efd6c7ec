@@ -1,0 +1,13 @@
+/*
+ * adc.h
+ *
+ *  Created on: Feb 20, 2025
+ *      Author: leagu
+ */
+
+#ifndef INC_ADC_H_
+#define INC_ADC_H_
+
+#include "main.h"
+
+#endif /* INC_ADC_H_ */

@@ -1,0 +1,19 @@
+/*
+ * timer.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#include "timer.h"
+
+TIM_HandleTypeDef htim1;
+
+void TIM1_Init(void) {
+
+	__HAL_RCC_TIM1_CLK_ENABLE();
+
+	TIM_ClockConfigTypeDef sClockSourceConfig = { 0 };
+	TIM_MasterConfigTypeDef sMasterConfig = { 0 };
+
+}

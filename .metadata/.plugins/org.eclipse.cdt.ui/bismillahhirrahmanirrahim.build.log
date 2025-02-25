@@ -1,0 +1,10 @@
+20:37:34 **** Incremental Build of configuration Debug for project bismillahhirrahmanirrahim ****
+make -j4 all 
+arm-none-eabi-size  bismillahhirrahmanirrahim.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35512	    124	   4196	  39832	   9b98	bismillahhirrahmanirrahim.elf
+Finished building: default.size.stdout
+ 
+
+20:37:35 Build Finished. 0 errors, 0 warnings. (took 716ms)
+

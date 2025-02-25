@@ -1,0 +1,10 @@
+22:33:09 **** Incremental Build of configuration Debug for project ADCDENEME ****
+make -j4 all 
+arm-none-eabi-size  ADCDENEME.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34104	    388	   6236	  40728	   9f18	ADCDENEME.elf
+Finished building: default.size.stdout
+ 
+
+22:33:09 Build Finished. 0 errors, 0 warnings. (took 472ms)
+

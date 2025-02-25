@@ -1,0 +1,12 @@
+/*
+ * timer.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: leagu
+ */
+
+#include "timer.h"
+
+void TIM1_Init(void) {
+
+}
