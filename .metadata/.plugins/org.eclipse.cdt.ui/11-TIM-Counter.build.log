@@ -1,4 +1,4 @@
-23:43:59 **** Incremental Build of configuration Debug for project 11-TIM-Counter ****
+19:32:48 **** Incremental Build of configuration Debug for project 11-TIM-Counter ****
 make -j4 all 
 arm-none-eabi-size  11-TIM-Counter.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  11-TIM-Counter.elf
 Finished building: default.size.stdout
  
 
-23:44:00 Build Finished. 0 errors, 0 warnings. (took 531ms)
+19:32:49 Build Finished. 0 errors, 0 warnings. (took 491ms)
 

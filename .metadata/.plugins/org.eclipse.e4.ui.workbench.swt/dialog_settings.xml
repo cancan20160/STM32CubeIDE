@@ -10,7 +10,6 @@
 		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="Debug"/>
 			<item value="Git"/>
-			<item value="ThreadX"/>
 		</list>
 	</section>
 </section>
