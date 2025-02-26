@@ -1,17 +1,10 @@
-20:44:36 **** Incremental Build of configuration Debug for project 11-TIM ****
+00:53:10 **** Incremental Build of configuration Debug for project 11-TIM ****
 make -j4 all 
-arm-none-eabi-gcc "../Core/Src/stm32g4xx_it.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32G431xx -c -I../Core/Inc -I../Drivers/STM32G4xx_HAL_Driver/Inc -I../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32G4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/stm32g4xx_it.d" -MT"Core/Src/stm32g4xx_it.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/stm32g4xx_it.o"
-arm-none-eabi-gcc -o "11-TIM.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\leagu\STM32CubeIDE\workspace_1.16.1\11-TIM\STM32G431CBUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="11-TIM.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: 11-TIM.elf
- 
 arm-none-eabi-size  11-TIM.elf 
-arm-none-eabi-objdump -h -S 11-TIM.elf  > "11-TIM.list"
    text	   data	    bss	    dec	    hex	filename
-   7520	     12	   1644	   9176	   23d8	11-TIM.elf
+   7752	     12	   1724	   9488	   2510	11-TIM.elf
 Finished building: default.size.stdout
  
-Finished building: 11-TIM.list
- 
 
-20:44:37 Build Finished. 0 errors, 0 warnings. (took 986ms)
+00:53:11 Build Finished. 0 errors, 0 warnings. (took 331ms)
 
